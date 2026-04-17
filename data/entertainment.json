@@ -1,0 +1,130 @@
+{
+  "topic": "Entertainment",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who played Jack in the movie Titanic?",
+      "answer": "Leonardo DiCaprio"
+    },
+    {
+      "id": 2,
+      "question": "What is the highest-grossing film of all time?",
+      "answer": "Avatar (as of 2026)"
+    },
+    {
+      "id": 3,
+      "question": "What rock band was Freddie Mercury the lead singer of?",
+      "answer": "Queen"
+    },
+    {
+      "id": 4,
+      "question": "What is the name of the fictional African country in Black Panther?",
+      "answer": "Wakanda"
+    },
+    {
+      "id": 5,
+      "question": "Who wrote the Harry Potter book series?",
+      "answer": "J.K. Rowling"
+    },
+    {
+      "id": 6,
+      "question": "What is the longest-running Broadway show?",
+      "answer": "The Phantom of the Opera"
+    },
+    {
+      "id": 7,
+      "question": "What animated film features the song 'Let It Go'?",
+      "answer": "Frozen"
+    },
+    {
+      "id": 8,
+      "question": "Who is known as the 'King of Pop'?",
+      "answer": "Michael Jackson"
+    },
+    {
+      "id": 9,
+      "question": "What TV show features characters named Ross, Rachel, Monica, Chandler, Joey, and Phoebe?",
+      "answer": "Friends"
+    },
+    {
+      "id": 10,
+      "question": "What year was the first iPhone released?",
+      "answer": "2007"
+    },
+    {
+      "id": 11,
+      "question": "Who directed the movie Jaws?",
+      "answer": "Steven Spielberg"
+    },
+    {
+      "id": 12,
+      "question": "What is Superman's weakness?",
+      "answer": "Kryptonite"
+    },
+    {
+      "id": 13,
+      "question": "What streaming service is known for the series Stranger Things?",
+      "answer": "Netflix"
+    },
+    {
+      "id": 14,
+      "question": "Who painted the ceiling of the Sistine Chapel?",
+      "answer": "Michelangelo"
+    },
+    {
+      "id": 15,
+      "question": "What movie won the Academy Award for Best Picture in 2020?",
+      "answer": "Parasite"
+    },
+    {
+      "id": 16,
+      "question": "What is the name of the wizarding school in Harry Potter?",
+      "answer": "Hogwarts School of Witchcraft and Wizardry"
+    },
+    {
+      "id": 17,
+      "question": "Who played Iron Man in the Marvel Cinematic Universe?",
+      "answer": "Robert Downey Jr."
+    },
+    {
+      "id": 18,
+      "question": "What is the name of the coffee shop in Friends?",
+      "answer": "Central Perk"
+    },
+    {
+      "id": 19,
+      "question": "What band sang 'Bohemian Rhapsody'?",
+      "answer": "Queen"
+    },
+    {
+      "id": 20,
+      "question": "What is the name of Beyoncé's fanbase?",
+      "answer": "The Beyhive"
+    },
+    {
+      "id": 21,
+      "question": "What movie features the quote 'Here's looking at you, kid'?",
+      "answer": "Casablanca"
+    },
+    {
+      "id": 22,
+      "question": "Who is the creator of The Simpsons?",
+      "answer": "Matt Groening"
+    },
+    {
+      "id": 23,
+      "question": "What is the name of the fictional city where Batman lives?",
+      "answer": "Gotham City"
+    },
+    {
+      "id": 24,
+      "question": "What was the first Pixar movie?",
+      "answer": "Toy Story"
+    },
+    {
+      "id": 25,
+      "question": "What singer is known as 'The Material Girl'?",
+      "answer": "Madonna"
+    }
+  ]
+}

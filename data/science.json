@@ -1,0 +1,155 @@
+{
+  "topic": "Science",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the chemical symbol for gold?",
+      "answer": "Au"
+    },
+    {
+      "id": 2,
+      "question": "How many planets are in our solar system?",
+      "answer": "8"
+    },
+    {
+      "id": 3,
+      "question": "What is the speed of light in vacuum (approximately)?",
+      "answer": "299,792,458 meters per second (or about 300,000 km/s)"
+    },
+    {
+      "id": 4,
+      "question": "What is the largest organ in the human body?",
+      "answer": "The skin"
+    },
+    {
+      "id": 5,
+      "question": "What gas do plants absorb from the atmosphere?",
+      "answer": "Carbon dioxide (CO2)"
+    },
+    {
+      "id": 6,
+      "question": "What is the powerhouse of the cell?",
+      "answer": "Mitochondria"
+    },
+    {
+      "id": 7,
+      "question": "What is the hardest natural substance on Earth?",
+      "answer": "Diamond"
+    },
+    {
+      "id": 8,
+      "question": "How many bones are in the adult human body?",
+      "answer": "206"
+    },
+    {
+      "id": 9,
+      "question": "What is the most abundant gas in Earth's atmosphere?",
+      "answer": "Nitrogen"
+    },
+    {
+      "id": 10,
+      "question": "What is the process by which plants make their food?",
+      "answer": "Photosynthesis"
+    },
+    {
+      "id": 11,
+      "question": "What planet is known as the Red Planet?",
+      "answer": "Mars"
+    },
+    {
+      "id": 12,
+      "question": "What is H2O commonly known as?",
+      "answer": "Water"
+    },
+    {
+      "id": 13,
+      "question": "What force keeps planets in orbit around the sun?",
+      "answer": "Gravity"
+    },
+    {
+      "id": 14,
+      "question": "What is the smallest unit of life?",
+      "answer": "The cell"
+    },
+    {
+      "id": 15,
+      "question": "What element has the atomic number 1?",
+      "answer": "Hydrogen"
+    },
+    {
+      "id": 16,
+      "question": "How many chromosomes do humans have in each cell?",
+      "answer": "46 (23 pairs)"
+    },
+    {
+      "id": 17,
+      "question": "What is the study of earthquakes called?",
+      "answer": "Seismology"
+    },
+    {
+      "id": 18,
+      "question": "What type of animal is a dolphin?",
+      "answer": "Mammal"
+    },
+    {
+      "id": 19,
+      "question": "What is the boiling point of water at sea level in Celsius?",
+      "answer": "100 degrees Celsius"
+    },
+    {
+      "id": 20,
+      "question": "What gas is responsible for the greenhouse effect?",
+      "answer": "Carbon dioxide (CO2) and other greenhouse gases"
+    },
+    {
+      "id": 21,
+      "question": "What is the center of an atom called?",
+      "answer": "The nucleus"
+    },
+    {
+      "id": 22,
+      "question": "What planet is closest to the Sun?",
+      "answer": "Mercury"
+    },
+    {
+      "id": 23,
+      "question": "What blood type is known as the universal donor?",
+      "answer": "O negative (O-)"
+    },
+    {
+      "id": 24,
+      "question": "How many hearts does an octopus have?",
+      "answer": "3"
+    },
+    {
+      "id": 25,
+      "question": "What is the largest planet in our solar system?",
+      "answer": "Jupiter"
+    },
+    {
+      "id": 26,
+      "question": "What vitamin do you get from sunlight?",
+      "answer": "Vitamin D"
+    },
+    {
+      "id": 27,
+      "question": "What is the study of living organisms called?",
+      "answer": "Biology"
+    },
+    {
+      "id": 28,
+      "question": "What part of the brain controls balance and coordination?",
+      "answer": "The cerebellum"
+    },
+    {
+      "id": 29,
+      "question": "What is the fastest land animal?",
+      "answer": "The cheetah"
+    },
+    {
+      "id": 30,
+      "question": "What metal is liquid at room temperature?",
+      "answer": "Mercury"
+    }
+  ]
+}

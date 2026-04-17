@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trivia Game - Play</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="game-container">
+        <!-- Game Header -->
+        <div class="game-header">
+            <div class="game-info">
+                <span class="round-info">Round <span id="currentRound">1</span> of <span id="totalRounds">5</span></span>
+                <span class="team-info">Current: <strong id="currentTeam">Team 1</strong></span>
+            </div>
+        </div>
+
+        <!-- Scoreboard -->
+        <div class="scoreboard" id="scoreboard">
+            <!-- Scores will be populated dynamically -->
+        </div>
+
+        <!-- Question Card -->
+        <div class="question-card">
+            <div class="timer-container">
+                <svg class="timer-circle" viewBox="0 0 100 100">
+                    <circle class="timer-bg" cx="50" cy="50" r="45"></circle>
+                    <circle class="timer-progress" cx="50" cy="50" r="45" id="timerCircle"></circle>
+                </svg>
+                <div class="timer-text" id="timerText">30</div>
+            </div>
+
+            <div class="question-content">
+                <h2 class="question-label">Question:</h2>
+                <p class="question-text" id="questionText">Loading question...</p>
+            </div>
+
+            <div class="answer-section" id="answerSection" style="display: none;">
+                <h3 class="answer-label">Answer:</h3>
+                <p class="answer-text" id="answerText"></p>
+            </div>
+
+            <div class="game-actions">
+                <button id="showAnswerBtn" class="btn btn-secondary">
+                    👁️ Show Answer
+                </button>
+                
+                <div id="scoringButtons" class="scoring-buttons" style="display: none;">
+                    <button id="correctBtn" class="btn btn-success">
+                        ✓ Correct
+                    </button>
+                    <button id="wrongBtn" class="btn btn-danger">
+                        ✗ Wrong
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Topic indicator -->
+        <div class="topic-badge" id="topicBadge"></div>
+    </div>
+
+    <script src="game.js"></script>
+</body>
+</html>

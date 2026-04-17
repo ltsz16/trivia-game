@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trivia Game - Setup</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="setup-card">
+            <h1 class="title">🎮 Trivia Game Setup</h1>
+            <p class="subtitle">Configure your game and let's have some fun!</p>
+            
+            <form id="setupForm">
+                <div class="form-group">
+                    <label for="numTeams">Number of Teams:</label>
+                    <input type="number" id="numTeams" name="numTeams" min="1" max="10" value="2" required>
+                    <small>How many teams are playing? (1-10)</small>
+                </div>
+
+                <div class="form-group">
+                    <label for="secondsPerQuestion">Seconds Per Question:</label>
+                    <div class="slider-container">
+                        <input type="range" id="secondsPerQuestion" name="secondsPerQuestion" 
+                               min="10" max="60" value="30" step="5">
+                        <span id="secondsDisplay" class="slider-value">30s</span>
+                    </div>
+                    <small>How much time for each question? (10-60 seconds)</small>
+                </div>
+
+                <div class="form-group">
+                    <label>Select Topics:</label>
+                    <div id="topicsContainer" class="topics-grid">
+                        <!-- Topics will be loaded dynamically -->
+                    </div>
+                    <small>Choose at least one topic</small>
+                </div>
+
+                <div class="form-group">
+                    <label for="numRounds">Number of Rounds:</label>
+                    <input type="number" id="numRounds" name="numRounds" min="1" max="20" value="5" required>
+                    <small>How many rounds to play? (1-20)</small>
+                </div>
+
+                <div class="form-actions">
+                    <button type="submit" class="btn btn-primary">
+                        🚀 Start Game
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="setup.js"></script>
+</body>
+</html>

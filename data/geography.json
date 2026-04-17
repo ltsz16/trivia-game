@@ -1,0 +1,155 @@
+{
+  "topic": "Geography",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "answer": "Paris"
+    },
+    {
+      "id": 2,
+      "question": "What is the largest country in the world by area?",
+      "answer": "Russia"
+    },
+    {
+      "id": 3,
+      "question": "How many continents are there?",
+      "answer": "7"
+    },
+    {
+      "id": 4,
+      "question": "What is the longest river in the world?",
+      "answer": "The Nile River"
+    },
+    {
+      "id": 5,
+      "question": "What ocean is on the West Coast of the United States?",
+      "answer": "Pacific Ocean"
+    },
+    {
+      "id": 6,
+      "question": "What is the smallest country in the world?",
+      "answer": "Vatican City"
+    },
+    {
+      "id": 7,
+      "question": "What desert is the largest hot desert in the world?",
+      "answer": "The Sahara Desert"
+    },
+    {
+      "id": 8,
+      "question": "What is the capital of Japan?",
+      "answer": "Tokyo"
+    },
+    {
+      "id": 9,
+      "question": "What mountain range separates Europe from Asia?",
+      "answer": "The Ural Mountains"
+    },
+    {
+      "id": 10,
+      "question": "What is the tallest mountain in the world?",
+      "answer": "Mount Everest"
+    },
+    {
+      "id": 11,
+      "question": "What country has the most islands?",
+      "answer": "Sweden (or Indonesia, depending on definition)"
+    },
+    {
+      "id": 12,
+      "question": "What is the capital of Australia?",
+      "answer": "Canberra"
+    },
+    {
+      "id": 13,
+      "question": "What is the largest ocean on Earth?",
+      "answer": "The Pacific Ocean"
+    },
+    {
+      "id": 14,
+      "question": "In what country would you find the Great Barrier Reef?",
+      "answer": "Australia"
+    },
+    {
+      "id": 15,
+      "question": "What is the capital of Canada?",
+      "answer": "Ottawa"
+    },
+    {
+      "id": 16,
+      "question": "What river flows through the Grand Canyon?",
+      "answer": "Colorado River"
+    },
+    {
+      "id": 17,
+      "question": "What is the largest island in the world?",
+      "answer": "Greenland"
+    },
+    {
+      "id": 18,
+      "question": "How many U.S. states are there?",
+      "answer": "50"
+    },
+    {
+      "id": 19,
+      "question": "What European city is known as the 'City of Canals'?",
+      "answer": "Venice"
+    },
+    {
+      "id": 20,
+      "question": "What country is home to the Amazon Rainforest?",
+      "answer": "Brazil (primarily, but it extends to other countries)"
+    },
+    {
+      "id": 21,
+      "question": "What is the capital of Egypt?",
+      "answer": "Cairo"
+    },
+    {
+      "id": 22,
+      "question": "What strait separates Africa from Europe?",
+      "answer": "Strait of Gibraltar"
+    },
+    {
+      "id": 23,
+      "question": "What country has the longest coastline?",
+      "answer": "Canada"
+    },
+    {
+      "id": 24,
+      "question": "What is the driest place on Earth?",
+      "answer": "Atacama Desert in Chile"
+    },
+    {
+      "id": 25,
+      "question": "What sea is bordered by Europe, Asia, and Africa?",
+      "answer": "Mediterranean Sea"
+    },
+    {
+      "id": 26,
+      "question": "What is the capital of Italy?",
+      "answer": "Rome"
+    },
+    {
+      "id": 27,
+      "question": "What African lake is the largest by area?",
+      "answer": "Lake Victoria"
+    },
+    {
+      "id": 28,
+      "question": "What is the southernmost continent?",
+      "answer": "Antarctica"
+    },
+    {
+      "id": 29,
+      "question": "What country is known as the Land of the Rising Sun?",
+      "answer": "Japan"
+    },
+    {
+      "id": 30,
+      "question": "What U.S. state has the most volcanoes?",
+      "answer": "Alaska"
+    }
+  ]
+}

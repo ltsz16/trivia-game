@@ -1,0 +1,130 @@
+{
+  "topic": "Sports",
+  "questions": [
+    {
+      "id": 1,
+      "question": "How many players are on a basketball team on the court?",
+      "answer": "5"
+    },
+    {
+      "id": 2,
+      "question": "What sport is known as 'America's pastime'?",
+      "answer": "Baseball"
+    },
+    {
+      "id": 3,
+      "question": "How many points is a touchdown worth in American football?",
+      "answer": "6"
+    },
+    {
+      "id": 4,
+      "question": "What country hosted the 2016 Summer Olympics?",
+      "answer": "Brazil (in Rio de Janeiro)"
+    },
+    {
+      "id": 5,
+      "question": "How many Grand Slam tournaments are there in tennis?",
+      "answer": "4"
+    },
+    {
+      "id": 6,
+      "question": "What is the maximum break in snooker?",
+      "answer": "147"
+    },
+    {
+      "id": 7,
+      "question": "In which sport would you perform a 'slam dunk'?",
+      "answer": "Basketball"
+    },
+    {
+      "id": 8,
+      "question": "How many holes are played in a typical round of golf?",
+      "answer": "18"
+    },
+    {
+      "id": 9,
+      "question": "What color is the center of an archery target?",
+      "answer": "Gold (or yellow)"
+    },
+    {
+      "id": 10,
+      "question": "How many Olympic rings are there?",
+      "answer": "5"
+    },
+    {
+      "id": 11,
+      "question": "What sport does Serena Williams play?",
+      "answer": "Tennis"
+    },
+    {
+      "id": 12,
+      "question": "In soccer, what is it called when a player scores three goals in one game?",
+      "answer": "A hat trick"
+    },
+    {
+      "id": 13,
+      "question": "What is the national sport of Canada?",
+      "answer": "Lacrosse (summer) and Ice Hockey (winter)"
+    },
+    {
+      "id": 14,
+      "question": "How many strikes are in a perfect game of bowling?",
+      "answer": "12"
+    },
+    {
+      "id": 15,
+      "question": "What is the diameter of a basketball hoop in inches?",
+      "answer": "18 inches"
+    },
+    {
+      "id": 16,
+      "question": "In which sport would you use a puck?",
+      "answer": "Ice hockey"
+    },
+    {
+      "id": 17,
+      "question": "How many bases are there on a baseball field?",
+      "answer": "4"
+    },
+    {
+      "id": 18,
+      "question": "What is the highest possible score in 10-pin bowling?",
+      "answer": "300"
+    },
+    {
+      "id": 19,
+      "question": "What is the length of a marathon in miles?",
+      "answer": "26.2 miles"
+    },
+    {
+      "id": 20,
+      "question": "In what sport would you find a pommel horse?",
+      "answer": "Gymnastics"
+    },
+    {
+      "id": 21,
+      "question": "How many players are on a soccer team on the field?",
+      "answer": "11"
+    },
+    {
+      "id": 22,
+      "question": "What does NBA stand for?",
+      "answer": "National Basketball Association"
+    },
+    {
+      "id": 23,
+      "question": "In boxing, what weight class comes after welterweight?",
+      "answer": "Middleweight"
+    },
+    {
+      "id": 24,
+      "question": "What is the only sport to have been played on the moon?",
+      "answer": "Golf"
+    },
+    {
+      "id": 25,
+      "question": "How many sets do you need to win to win a men's singles match at Wimbledon?",
+      "answer": "3 out of 5"
+    }
+  ]
+}
