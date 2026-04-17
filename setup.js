@@ -6,7 +6,10 @@ const AVAILABLE_TOPICS = [
     { name: 'Science', file: 'science.json' },
     { name: 'Sports', file: 'sports.json' },
     { name: 'Geography', file: 'geography.json' },
-    { name: 'Entertainment', file: 'entertainment.json' }
+    { name: 'Entertainment', file: 'entertainment.json' },
+    {name: 'Literature', file: 'literature.json' },
+    {name: 'Movies', file: 'movies.json' },
+    {name: 'Shakespeare', file: 'shakespeare.json' }
 ];
 
 // DOM elements

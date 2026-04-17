@@ -125,6 +125,56 @@
       "id": 25,
       "question": "What singer is known as 'The Material Girl'?",
       "answer": "Madonna"
+    },
+    {
+      "id": 26,
+      "question": "What TV series features a chemistry teacher turned drug manufacturer?",
+      "answer": "Breaking Bad"
+    },
+    {
+      "id": 27,
+      "question": "Who composed the music for Star Wars?",
+      "answer": "John Williams"
+    },
+    {
+      "id": 28,
+      "question": "What TV show is set in the fictional town of Hawkins, Indiana?",
+      "answer": "Stranger Things"
+    },
+    {
+      "id": 29,
+      "question": "What is the name of the kingdom in Disney's Tangled?",
+      "answer": "Corona"
+    },
+    {
+      "id": 30,
+      "question": "Who sang 'Rolling in the Deep'?",
+      "answer": "Adele"
+    },
+    {
+      "id": 31,
+      "question": "What animated TV show features the Griffin family?",
+      "answer": "Family Guy"
+    },
+    {
+      "id": 32,
+      "question": "What actress played Hermione Granger in the Harry Potter films?",
+      "answer": "Emma Watson"
+    },
+    {
+      "id": 33,
+      "question": "What band released the album 'Abbey Road'?",
+      "answer": "The Beatles"
+    },
+    {
+      "id": 34,
+      "question": "What HBO series is based on George R.R. Martin's novels?",
+      "answer": "Game of Thrones"
+    },
+    {
+      "id": 35,
+      "question": "Who directed the movie 'The Godfather'?",
+      "answer": "Francis Ford Coppola"
     }
   ]
 }

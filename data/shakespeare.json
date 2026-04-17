@@ -1,0 +1,201 @@
+{
+  "topic": "Shakespeare",
+  "questions": [
+    {
+      "id": 1,
+      "question": "From which play is the quote 'To be, or not to be: that is the question'?",
+      "answer": "Hamlet"
+    },
+    {
+        "id": 2,
+        "question": "Which Shakespeare play features the characters of Oberon and Titania?",
+        "answer": "A Midsummer Night's Dream"
+    },
+    {
+        "id": 3,
+        "question": "Play, Act and Scene for the line \"Out, damned spot! out, I say!\"",
+        "answer": "Macbeth, Act 5, Scene 1"
+    },
+    {
+        "id": 4,
+        "question": "Which Shakespeare play is set in the city of Verona?",
+        "answer": "Romeo and Juliet"
+    },
+    {
+        "id": 5,
+        "question": "In which play does the character Iago appear?",
+        "answer": "Othello"
+    },
+    {
+        "id": 6,
+        "question": "Play, Act and Scene for the line \"Friends, Romans, countrymen, lend me your ears\"",
+        "answer": "Julius Caesar, Act 3, Scene 2"
+    },
+    {
+        "id": 7,
+        "question": "Play, Act and Scene for the line \"Romeo, Romeo! wherefore art thou Romeo?\"",
+        "answer": "Romeo and Juliet, Act 2, Scene 2"
+    },
+    {
+        "id": 8,
+        "question": "Play, Act and Scene for the line \"All the world's a stage\"",
+        "answer": "As You Like It, Act 2, Scene 7"
+    },
+    {
+        "id": 9,
+        "question": "Play, Act and Scene for the line \"Double, double toil and trouble\"",
+        "answer": "Macbeth, Act 4, Scene 1"
+    },
+    {
+        "id": 10,
+        "question": "Play, Act and Scene for the line \"Now is the winter of our discontent\"",
+        "answer": "Richard III, Act 1, Scene 1"
+    },
+    {
+        "id": 11,
+        "question": "Play, Act and Scene for the line \"A horse! a horse! my kingdom for a horse!\"",
+        "answer": "Richard III, Act 5, Scene 4"
+    },
+    {
+        "id": 12,
+        "question": "Play, Act and Scene for the line \"Is this a dagger which I see before me?\"",
+        "answer": "Macbeth, Act 2, Scene 1"
+    },
+    {
+        "id": 13,
+        "question": "Play, Act and Scene for the line \"The quality of mercy is not strained\"",
+        "answer": "The Merchant of Venice, Act 4, Scene 1"
+    },
+    {
+        "id": 14,
+        "question": "Play, Act and Scene for the line \"If music be the food of love, play on\"",
+        "answer": "Twelfth Night, Act 1, Scene 1"
+    },
+    {
+        "id": 15,
+        "question": "Play, Act and Scene for the line \"What's in a name? That which we call a rose\"",
+        "answer": "Romeo and Juliet, Act 2, Scene 2"
+    },
+    {
+        "id": 16,
+        "question": "Play, Act and Scene for the line \"Once more unto the breach, dear friends\"",
+        "answer": "Henry V, Act 3, Scene 1"
+    },
+    {
+        "id": 17,
+        "question": "Play, Act and Scene for the line \"Good night, good night! Parting is such sweet sorrow\"",
+        "answer": "Romeo and Juliet, Act 2, Scene 2"
+    },
+    {
+        "id": 18,
+        "question": "Play, Act and Scene for the line \"Beware the ides of March\"",
+        "answer": "Julius Caesar, Act 1, Scene 2"
+    },
+    {
+        "id": 19,
+        "question": "Play, Act and Scene for the line \"The course of true love never did run smooth\"",
+        "answer": "A Midsummer Night's Dream, Act 1, Scene 1"
+    },
+    {
+        "id": 20,
+        "question": "Play, Act and Scene for the line \"Brevity is the soul of wit\"",
+        "answer": "Hamlet, Act 2, Scene 2"
+    },
+    {
+        "id": 21,
+        "question": "Play, Act and Scene for the line \"Cowards die many times before their deaths\"",
+        "answer": "Julius Caesar, Act 2, Scene 2"
+    },
+    {
+        "id": 22,
+        "question": "Play, Act and Scene for the line \"Et tu, Brute?\"",
+        "answer": "Julius Caesar, Act 3, Scene 1"
+    },
+    {
+        "id": 23,
+        "question": "Play, Act and Scene for the line \"All that glitters is not gold\"",
+        "answer": "The Merchant of Venice, Act 2, Scene 7"
+    },
+    {
+        "id": 24,
+        "question": "Play, Act and Scene for the line \"The lady doth protest too much, methinks\"",
+        "answer": "Hamlet, Act 3, Scene 2"
+    },
+    {
+        "id": 25,
+        "question": "Play, Act and Scene for the line \"We are such stuff as dreams are made on\"",
+        "answer": "The Tempest, Act 4, Scene 1"
+    },
+    {
+        "id": 26,
+        "question": "Play, Act and Scene for the line \"Though this be madness, yet there is method in't\"",
+        "answer": "Hamlet, Act 2, Scene 2"
+    },
+    {
+        "id": 27,
+        "question": "Play, Act and Scene for the line \"Cry 'Havoc!' and let slip the dogs of war\"",
+        "answer": "Julius Caesar, Act 3, Scene 1"
+    },
+    {
+        "id": 28,
+        "question": "Play, Act and Scene for the line \"Some are born great, some achieve greatness\"",
+        "answer": "Twelfth Night, Act 2, Scene 5"
+    },
+    {
+        "id": 29,
+        "question": "Play, Act and Scene for the line \"The fault, dear Brutus, is not in our stars\"",
+        "answer": "Julius Caesar, Act 1, Scene 2"
+    },
+    {
+        "id": 30,
+        "question": "Play, Act and Scene for the line \"This above all: to thine own self be true\"",
+        "answer": "Hamlet, Act 1, Scene 3"
+    },
+    {
+        "id": 31,
+        "question": "Play, Act and Scene for the line \"Something is rotten in the state of Denmark\"",
+        "answer": "Hamlet, Act 1, Scene 4"
+    },
+    {
+        "id": 32,
+        "question": "Play, Act and Scene for the line \"A plague o' both your houses!\"",
+        "answer": "Romeo and Juliet, Act 3, Scene 1"
+    },
+    {
+        "id": 33,
+        "question": "Play, Act and Scene for the line \"Lord, what fools these mortals be!\"",
+        "answer": "A Midsummer Night's Dream, Act 3, Scene 2"
+    },
+    {
+        "id": 34,
+        "question": "Play, Act and Scene for the line \"Get thee to a nunnery\"",
+        "answer": "Hamlet, Act 3, Scene 1"
+    },
+    {
+        "id": 35,
+        "question": "Play, Act and Scene for the line \"The rest is silence\"",
+        "answer": "Hamlet, Act 5, Scene 2"
+    },
+    {
+        "id": 36,
+        "question": "Play, Act and Scene for the line \"But, soft! what light through yonder window breaks?\"",
+        "answer": "Romeo and Juliet, Act 2, Scene 2"
+    },
+    {
+        "id": 37,
+        "question": "Play, Act and Scene for the line \"I am constant as the northern star\"",
+        "answer": "Julius Caesar, Act 3, Scene 1"
+    },
+    {
+        "id": 38,
+        "question": "Play, Act and Scene for the line \"Uneasy lies the head that wears a crown\"",
+        "answer": "Henry IV Part 2, Act 3, Scene 1"
+    },
+    {
+        "id": 39,
+        "question": "What is the meaning of the phrase to seek a 'pound of flesh'?",
+        "answer": "To demand something that is owed, even if it causes harm to the debtor (originating from The Merchant of Venice)"
+    }
+
+]
+}

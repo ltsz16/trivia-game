@@ -1,0 +1,225 @@
+{
+  "topic": "Literature",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "answer": "Jane Austen"
+    },
+    {
+        "id": 2,
+        "question": "What is the name of the wizarding school in the Harry Potter series?",
+        "answer": "Hogwarts"
+    },
+    {
+        "id": 3,
+        "question": "Identify the book: \"Call me Ishmael.\"",
+        "answer": "Moby-Dick by Herman Melville"
+    },
+    {
+        "id": 4,
+        "question": "Identify the book: \"It was the best of times, it was the worst of times\"",
+        "answer": "A Tale of Two Cities by Charles Dickens"
+    },
+    {
+        "id": 5,
+        "question": "Identify the book: \"It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.\"",
+        "answer": "Pride and Prejudice by Jane Austen"
+    },
+    {
+        "id": 6,
+        "question": "Identify the book: \"All happy families are alike; each unhappy family is unhappy in its own way.\"",
+        "answer": "Anna Karenina by Leo Tolstoy"
+    },
+    {
+        "id": 7,
+        "question": "Identify the book: \"In a hole in the ground there lived a hobbit.\"",
+        "answer": "The Hobbit by J.R.R. Tolkien"
+    },
+    {
+        "id": 8,
+        "question": "Identify the book: \"It was a bright cold day in April, and the clocks were striking thirteen.\"",
+        "answer": "1984 by George Orwell"
+    },
+    {
+        "id": 9,
+        "question": "Identify the book: \"Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much.\"",
+        "answer": "Harry Potter and the Philosopher's Stone by J.K. Rowling"
+    },
+    {
+        "id": 10,
+        "question": "Identify the author: David Copperfield",
+        "answer": "Charles Dickens"
+    },
+    {
+        "id": 11,
+        "question": "Identify the author: The Great Gatsby",
+        "answer": "F. Scott Fitzgerald"
+    },
+    {
+        "id": 12,
+        "question": "Identify the book: \"You don't know about me without you have read a book by the name of The Adventures of Tom Sawyer\"",
+        "answer": "Adventures of Huckleberry Finn by Mark Twain"
+    },
+    {
+        "id": 13,
+        "question": "Identify the book: \"So we beat on, boats against the current, borne back ceaselessly into the past.\"",
+        "answer": "The Great Gatsby by F. Scott Fitzgerald"
+    },
+    {
+        "id": 14,
+        "question": "Who wrote 'The Autobiography of Benjamin Franklin'?",
+        "answer": "Benjamin Franklin"
+    },
+    {
+        "id": 15,
+        "question": "Who wrote 'The Iliad' and 'The Odyssey'?",
+        "answer": "Homer"
+    },
+    {
+        "id": 16,
+        "question": "Who wrote 'The Divine Comedy'?",
+        "answer": "Dante Alighieri"
+    },
+    {
+        "id": 17,
+        "question": "Who wrote 'Essays' included in the Harvard Classics?",
+        "answer": "Michel de Montaigne"
+    },
+    {
+        "id": 18,
+        "question": "Who wrote 'Meditations'?",
+        "answer": "Marcus Aurelius"
+    },
+    {
+        "id": 19,
+        "question": "Who wrote 'The Origin of Species'?",
+        "answer": "Charles Darwin"
+    },
+    {
+        "id": 20,
+        "question": "Who wrote 'The Wealth of Nations'?",
+        "answer": "Adam Smith"
+    },
+    {
+        "id": 21,
+        "question": "Who wrote 'Confessions'?",
+        "answer": "Saint Augustine"
+    },
+    {
+        "id": 22,
+        "question": "Who wrote 'Don Quixote'?",
+        "answer": "Miguel de Cervantes"
+    },
+    {
+        "id": 23,
+        "question": "Who wrote 'Paradise Lost'?",
+        "answer": "John Milton"
+    },
+    {
+        "id": 24,
+        "question": "Who wrote 'The Pilgrim's Progress'?",
+        "answer": "John Bunyan"
+    },
+    {
+        "id": 25,
+        "question": "Who wrote the poems included in the Harvard Classics, known for 'Auld Lang Syne'?",
+        "answer": "Robert Burns"
+    },
+    {
+        "id": 26,
+        "question": "Who wrote 'Doctor Faustus'?",
+        "answer": "Christopher Marlowe"
+    },
+    {
+        "id": 27,
+        "question": "Who wrote 'Novum Organum' and essays in the Harvard Classics?",
+        "answer": "Francis Bacon"
+    },
+    {
+        "id": 28,
+        "question": "Who wrote 'Tartuffe' and other plays in the Harvard Classics?",
+        "answer": "Molière"
+    },
+    {
+        "id": 29,
+        "question": "Who wrote 'Faust'?",
+        "answer": "Johann Wolfgang von Goethe"
+    },
+    {
+        "id": 30,
+        "question": "Who wrote 'The Aeneid'?",
+        "answer": "Virgil"
+    },
+    {
+        "id": 31,
+        "question": "Who wrote 'Plutarch's Lives'?",
+        "answer": "Plutarch"
+    },
+    {
+        "id": 32,
+        "question": "Who wrote 'Two Years Before the Mast'?",
+        "answer": "Richard Henry Dana Jr."
+    },
+    {
+        "id": 33,
+        "question": "Who wrote 'The Prince'?",
+        "answer": "Niccolò Machiavelli"
+    },
+    {
+        "id": 34,
+        "question": "Who wrote the tragedy 'Oresteia'?",
+        "answer": "Aeschylus"
+    },
+    {
+        "id": 35,
+        "question": "Who wrote the tragedy 'Oedipus Rex'?",
+        "answer": "Sophocles"
+    },
+    {
+        "id": 36,
+        "question": "Who wrote the tragedy 'Medea'?",
+        "answer": "Euripides"
+    },
+    {
+        "id": 37,
+        "question": "Who wrote the tragedy 'Antigone'?",
+        "answer": "Sophocles"
+    },
+    {
+        "id": 38,
+        "question": "Who wrote the tragedy 'Prometheus Bound'?",
+        "answer": "Aeschylus"
+    },
+    {
+        "id": 39,
+        "question": "Who wrote the tragedy 'The Bacchae'?",
+        "answer": "Euripides"
+    },
+    {
+        "id": 40,
+        "question": "Who wrote the tragedy 'Electra' (there are versions by multiple playwrights - name one)?",
+        "answer": "Sophocles (or Euripides or Aeschylus)"
+    },
+    {
+        "id": 41,
+        "question": "Who wrote the tragedy 'Seven Against Thebes'?",
+        "answer": "Aeschylus"
+    },
+    {
+        "id": 42,
+        "question": "Who wrote the tragedy 'Hippolytus'?",
+        "answer": "Euripides"
+    },
+    {
+        "id": 43,
+        "question": "Who wrote the tragedy 'Ajax'?",
+        "answer": "Sophocles"
+    },
+    {
+        "id": 44,
+        "question": "Who wrote the the line \"what a web we weave when first we practice to deceive\"?",
+         "answer": "Sir Walter Scott in his book 'Marmion'"
+    }
+]
+}

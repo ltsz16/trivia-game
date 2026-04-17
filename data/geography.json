@@ -143,13 +143,113 @@
     },
     {
       "id": 29,
-      "question": "What country is known as the Land of the Rising Sun?",
+      "question": "Which country is known as the Land of the Rising Sun?",
       "answer": "Japan"
     },
     {
       "id": 30,
-      "question": "What U.S. state has the most volcanoes?",
+      "question": "Which U.S. state has the most volcanoes?",
       "answer": "Alaska"
+    },
+    {
+      "id": 31,
+      "question": "What is the capital of Germany?",
+      "answer": "Berlin"
+    },
+    {
+      "id": 32,
+      "question": "What is the second longest river in the world?",
+      "answer": "The Amazon River"
+    },
+    {
+      "id": 33,
+      "question": "What mountain range runs along the border of France and Spain?",
+      "answer": "The Pyrenees"
+    },
+    {
+      "id": 34,
+      "question": "What is the capital of Brazil?",
+      "answer": "Brasília"
+    },
+    {
+      "id": 35,
+      "question": "What body of water separates England from France?",
+      "answer": "The English Channel"
+    },
+    {
+      "id": 36,
+      "question": "What is the largest lake in Africa?",
+      "answer": "Lake Victoria"
+    },
+    {
+      "id": 37,
+      "question": "What country is home to Mount Kilimanjaro?",
+      "answer": "Tanzania"
+    },
+    {
+      "id": 38,
+      "question": "What is the capital of India?",
+      "answer": "New Delhi"
+    },
+    {
+      "id": 39,
+      "question": "What is the world's largest coral reef system?",
+      "answer": "The Great Barrier Reef"
+    },
+    {
+      "id": 40,
+      "question": "What sea is the saltiest body of water on Earth?",
+      "answer": "The Dead Sea"
+    },
+    {
+      "id": 41,
+      "question": "What country has the most time zones?",
+      "answer": "France (including overseas territories)"
+    },
+    {
+      "id": 42,
+      "question": "What is the capital of South Korea?",
+      "answer": "Seoul"
+    },
+    {
+      "id": 43,
+      "question": "What waterfall system is located on the border of Argentina and Brazil?",
+      "answer": "Iguazu Falls"
+    },
+    {
+      "id": 44,
+      "question": "What is the deepest point in the world's oceans?",
+      "answer": "The Mariana Trench (or Challenger Deep)"
+    },
+    {
+      "id": 45,
+      "question": "What country is made up of more than 7,000 islands?",
+      "answer": "The Philippines"
+    },
+    {
+      "id": 46,
+      "question": "What is the largest country in South America?",
+      "answer": "Brazil"
+    },
+    {
+      "id": 47,
+      "question": "What mountain range is the longest in the world?",
+      "answer": "The Andes"
+    },
+    {
+      "id": 48,
+      "question": "What is the capital of Turkey?",
+      "answer": "Ankara"
+    },
+    {
+      "id": 49,
+      "question": "What two countries share the longest international border?",
+      "answer": "Canada and the United States"
+    },
+    {
+      "id": 50,
+      "question": "What peninsula contains the countries of Norway, Sweden, and part of Finland?",
+      "answer": "The Scandinavian Peninsula"    
     }
   ]
 }

@@ -150,6 +150,156 @@
       "id": 30,
       "question": "What metal is liquid at room temperature?",
       "answer": "Mercury"
+    },
+    {
+      "id": 31,
+      "question": "What is the chemical formula for table salt?",
+      "answer": "NaCl (sodium chloride)"
+    },
+    {
+      "id": 32,
+      "question": "What is the pH of a neutral solution?",
+      "answer": "7"
+    },
+    {
+      "id": 33,
+      "question": "What is the most abundant element in the universe?",
+      "answer": "Hydrogen"
+    },
+    {
+      "id": 34,
+      "question": "What type of bond involves the sharing of electrons?",
+      "answer": "Covalent bond"
+    },
+    {
+      "id": 35,
+      "question": "What is the chemical symbol for iron?",
+      "answer": "Fe"
+    },
+    {
+      "id": 36,
+      "question": "What is Avogadro's number (approximately)?",
+      "answer": "6.022 × 10²³"
+    },
+    {
+      "id": 37,
+      "question": "What gas is produced when an acid reacts with a metal?",
+      "answer": "Hydrogen gas (H2)"
+    },
+    {
+      "id": 38,
+      "question": "What is the chemical formula for carbon dioxide?",
+      "answer": "CO2"
+    },
+    {
+      "id": 39,
+      "question": "What is the process of a solid turning directly into a gas called?",
+      "answer": "Sublimation"
+    },
+    {
+      "id": 40,
+      "question": "What is the main component of natural gas?",
+      "answer": "Methane (CH4)"
+    },
+    {
+      "id": 41,
+      "question": "What is Newton's First Law of Motion?",
+      "answer": "An object at rest stays at rest, and an object in motion stays in motion unless acted upon by an external force (Law of Inertia)"
+    },
+    {
+      "id": 42,
+      "question": "What is the formula for force in Newton's Second Law?",
+      "answer": "F = ma (Force equals mass times acceleration)"
+    },
+    {
+      "id": 43,
+      "question": "According to Newton's Third Law, for every action there is an equal and opposite what?",
+      "answer": "Reaction"
+    },
+    {
+      "id": 44,
+      "question": "What is the acceleration due to gravity on Earth (approximately)?",
+      "answer": "9.8 m/s² (or 9.81 m/s²)"
+    },
+    {
+      "id": 45,
+      "question": "What is the SI unit of force?",
+      "answer": "Newton (N)"
+    },
+    {
+      "id": 46,
+      "question": "What is kinetic energy?",
+      "answer": "The energy of motion (or energy possessed by a moving object)"
+    },
+    {
+      "id": 47,
+      "question": "What is the formula for kinetic energy?",
+      "answer": "KE = ½mv² (half mass times velocity squared)"
+    },
+    {
+      "id": 48,
+      "question": "What is potential energy?",
+      "answer": "Stored energy (or energy due to position or configuration)"
+    },
+    {
+      "id": 49,
+      "question": "What is the law of conservation of energy?",
+      "answer": "Energy cannot be created or destroyed, only converted from one form to another"
+    },
+    {
+      "id": 50,
+      "question": "What is the SI unit of work and energy?",
+      "answer": "Joule (J)"
+    },
+    {
+      "id": 51,
+      "question": "What is the name of our galaxy?",
+      "answer": "The Milky Way"
+    },
+    {
+      "id": 52,
+      "question": "What is the closest star to Earth?",
+      "answer": "The Sun"
+    },
+    {
+      "id": 53,
+      "question": "What is a light-year?",
+      "answer": "The distance light travels in one year (approximately 9.46 trillion kilometers)"
+    },
+    {
+      "id": 54,
+      "question": "What is the largest moon of Saturn?",
+      "answer": "Titan"
+    },
+    {
+      "id": 55,
+      "question": "What is the name of the force that prevents stars from collapsing?",
+      "answer": "Nuclear fusion pressure (or radiation pressure)"
+    },
+    {
+      "id": 56,
+      "question": "What is a supernova?",
+      "answer": "A massive stellar explosion that occurs at the end of a star's life"
+    },
+    {
+      "id": 57,
+      "question": "What is the Kuiper Belt?",
+      "answer": "A region of the solar system beyond Neptune containing icy bodies and dwarf planets"
+    },
+    {
+      "id": 58,
+      "question": "What is the Great Red Spot on Jupiter?",
+      "answer": "A giant storm (or anticyclonic storm)"
+    },
+    {
+      "id": 59,
+      "question": "What is a black hole?",
+      "answer": "A region of spacetime with gravity so strong that nothing, not even light, can escape"
+    },
+    {
+      "id": 60,
+      "question": "Where is the asteroid belt located?",
+      "answer": "Between Mars and Jupiter"
     }
   ]
 }
