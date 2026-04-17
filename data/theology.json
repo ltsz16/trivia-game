@@ -1,0 +1,380 @@
+{
+  "topic": "Theology",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What are the Ante-Nicene Fathers known for?",
+      "answer": "The Ante-Nicene Fathers were early Christian writers and theologians who lived before the First Council of Nicaea in 325 AD."
+    },
+    {
+        "id": 2,
+        "question": "What is the significance of the Council of Nicaea in Christian history?",
+        "answer": "The Council of Nicaea was the first ecumenical council of the Christian Church, held in 325 AD. It was significant for establishing the Nicene Creed."
+    },
+    {
+        "id": 3,
+        "question": "Who was the first Christian martyr after the death of Christ?",
+        "answer": "Saint Stephen is traditionally considered the first Christian martyr."
+    },
+    {
+        "id": 4,
+        "question": "What is Yom Kippur?",
+        "answer": "Yom Kippur is the Jewish Day of Atonement, a solemn day dedicated to repentance and seeking forgiveness."   
+    },
+    {
+        "id": 5,
+        "question": "What is the biblical reference for 'In the beginning God created the heaven and the earth'?",
+        "answer": "Genesis 1:1"
+    },
+    {
+        "id": 6,
+        "question": "What is the biblical reference for 'For God so loved the world, that he gave his only begotten Son'?",
+        "answer": "John 3:16"
+    },
+    {
+        "id": 7,
+        "question": "What is the biblical reference for 'The Lord is my shepherd; I shall not want'?",
+        "answer": "Psalm 23:1"
+    },
+    {
+        "id": 8,
+        "question": "What is the biblical reference for 'I am the way, the truth, and the life'?",
+        "answer": "John 14:6"
+    },
+    {
+        "id": 9,
+        "question": "What is the biblical reference for 'Judge not, that ye be not judged'?",
+        "answer": "Matthew 7:1"
+    },
+    {
+        "id": 10,
+        "question": "What is the biblical reference for 'Ask, and it shall be given you; seek, and ye shall find'?",
+        "answer": "Matthew 7:7"
+    },
+    {
+        "id": 11,
+        "question": "What is the biblical reference for 'Greater love hath no man than this, that a man lay down his life for his friends'?",
+        "answer": "John 15:13"
+    },
+    {
+        "id": 12,
+        "question": "What is the biblical reference for 'I can do all things through Christ which strengtheneth me'?",
+        "answer": "Philippians 4:13"
+    },
+    {
+        "id": 13,
+        "question": "What is the biblical reference for 'Love thy neighbour as thyself'?",
+        "answer": "Leviticus 19:18 (also Matthew 22:39)"
+    },
+    {
+        "id": 14,
+        "question": "What is the biblical reference for 'And now abideth faith, hope, charity, these three; but the greatest of these is charity'?",
+        "answer": "1 Corinthians 13:13"
+    },
+    {
+        "id": 15,
+        "question": "What are the first five books of the Hebrew Bible called?",
+        "answer": "The Torah (or Pentateuch)"
+    },
+    {
+        "id": 16,
+        "question": "What is Hanukkah?",
+        "answer": "The Jewish Festival of Lights, commemorating the rededication of the Second Temple"
+    },
+    {
+        "id": 17,
+        "question": "What Jewish holiday commemorates the Exodus from Egypt?",
+        "answer": "Passover (or Pesach)"
+    },
+    {
+        "id": 18,
+        "question": "On what day of the week does Shabbat begin?",
+        "answer": "Friday evening (at sunset)"
+    },
+    {
+        "id": 19,
+        "question": "At what age does a Jewish boy celebrate his Bar Mitzvah?",
+        "answer": "13 years old"
+    },
+    {
+        "id": 20,
+        "question": "What term describes food that is prepared according to Jewish dietary laws?",
+        "answer": "Kosher"
+    },
+    {
+        "id": 21,
+        "question": "What is the Talmud?",
+        "answer": "The central text of Rabbinic Judaism, containing rabbinical discussions and interpretations of the Torah"
+    },
+    {
+        "id": 22,
+        "question": "What are the Jewish High Holy Days?",
+        "answer": "Rosh Hashanah (New Year) and Yom Kippur (Day of Atonement)"
+    },
+    {
+        "id": 23,
+        "question": "What is a menorah?",
+        "answer": "A seven-branched candelabrum that is a symbol of Judaism"
+    },
+    {
+        "id": 24,
+        "question": "What is a rabbi?",
+        "answer": "A Jewish religious leader and teacher"
+    },
+    {
+        "id": 25,
+        "question": "When was the First Council of Nicaea held?",
+        "answer": "325 AD"
+    },
+    {
+        "id": 26,
+        "question": "What was the primary issue addressed at the Council of Ephesus in 431 AD?",
+        "answer": "The nature of Christ and declaring Mary as Theotokos (Mother of God)"
+    },
+    {
+        "id": 27,
+        "question": "What did the Council of Chalcedon in 451 AD declare about Christ?",
+        "answer": "That Christ has two natures - fully divine and fully human - in one person"
+    },
+    {
+        "id": 28,
+        "question": "What was addressed at the Second Council of Nicaea in 787 AD?",
+        "answer": "The veneration of icons (rejecting iconoclasm)"
+    },
+    {
+        "id": 29,
+        "question": "What major event was the Council of Trent (1545-1563) a response to?",
+        "answer": "The Protestant Reformation (it was part of the Counter-Reformation)"
+    },
+    {
+        "id": 30,
+        "question": "What doctrine was defined at the First Vatican Council (1869-1870)?",
+        "answer": "Papal infallibility"
+    },
+    {
+        "id": 31,
+        "question": "When was the Second Vatican Council held?",
+        "answer": "1962-1965"
+    },
+    {
+        "id": 32,
+        "question": "How many ecumenical councils does the Catholic Church recognize?",
+        "answer": "21"
+    },
+    {
+        "id": 33,
+        "question": "What was decided at the Council of Jerusalem described in Acts 15?",
+        "answer": "Gentile converts did not need to be circumcised or follow all Jewish laws"
+    },
+    {
+        "id": 34,
+        "question": "What council established the Nicene Creed?",
+        "answer": "The First Council of Nicaea (in 325 AD)"
+    },
+    {
+        "id": 35,
+        "question": "Who is traditionally considered the first Pope?",
+        "answer": "Saint Peter"
+    },
+    {
+        "id": 36,
+        "question": "Who was the longest-reigning pope in history?",
+        "answer": "Pope Pius IX (31 years, 1846-1878)"
+    },
+    {
+        "id": 37,
+        "question": "Which pope was reigning during the Protestant Reformation?",
+        "answer": "Pope Leo X"
+    },
+    {
+        "id": 38,
+        "question": "Who was the first non-Italian pope in 455 years?",
+        "answer": "Pope John Paul II (from Poland)"
+    },
+    {
+        "id": 39,
+        "question": "Which pope called the Second Vatican Council?",
+        "answer": "Pope John XXIII"
+    },
+    {
+        "id": 40,
+        "question": "What is significant about Pope Francis being elected in 2013?",
+        "answer": "He was the first Jesuit pope and the first from the Americas"
+    },
+    {
+        "id": 41,
+        "question": "Where is the official residence of the Pope?",
+        "answer": "Vatican City"
+    },
+    {
+        "id": 42,
+        "question": "What body elects a new pope?",
+        "answer": "The College of Cardinals (in a conclave)"
+    },
+    {
+        "id": 43,
+        "question": "What does white smoke from the Sistine Chapel chimney signify?",
+        "answer": "A new pope has been elected"
+    },
+    {
+        "id": 44,
+        "question": "At which council was the doctrine of papal infallibility defined?",
+        "answer": "The First Vatican Council (1870)"
+    },
+    {
+        "id": 45,
+        "question": "Who founded the Church of Jesus Christ of Latter-day Saints?",
+        "answer": "Joseph Smith"
+    },
+    {
+        "id": 46,
+        "question": "In what year was the Book of Mormon first published?",
+        "answer": "1830"
+    },
+    {
+        "id": 47,
+        "question": "Which city is the headquarters of the LDS Church?",
+        "answer": "Salt Lake City, Utah"
+    },
+    {
+        "id": 48,
+        "question": "Who led the Mormon pioneers to Utah?",
+        "answer": "Brigham Young"
+    },
+    {
+        "id": 49,
+        "question": "Which angel appeared to Joseph Smith according to LDS teaching?",
+        "answer": "Angel Moroni"
+    },
+    {
+        "id": 50,
+        "question": "What are LDS temple garments?",
+        "answer": "Sacred underclothing worn by endowed members of the LDS Church"
+    },
+    {
+        "id": 51,
+        "question": "What is the Word of Wisdom in LDS faith?",
+        "answer": "A health code that prohibits alcohol, tobacco, coffee, and tea"
+    },
+    {
+        "id": 52,
+        "question": "How long is a typical LDS missionary service?",
+        "answer": "2 years for men, 18 months for women"
+    },
+    {
+        "id": 53,
+        "question": "What is the Pearl of Great Price?",
+        "answer": "One of the four standard works (scriptures) of the LDS Church"
+    },
+    {
+        "id": 54,
+        "question": "What is the Quorum of the Twelve Apostles in the LDS Church?",
+        "answer": "A governing body second only to the First Presidency in the church hierarchy"
+    },
+    {
+        "id": 55,
+        "question": "What is a torii gate in Shintoism?",
+        "answer": "A traditional Japanese gate marking the entrance to a Shinto shrine"
+    },
+    {
+        "id": 56,
+        "question": "What are kami in Shintoism?",
+        "answer": "Spirits or deities in the Shinto religion"
+    },
+    {
+        "id": 57,
+        "question": "What country is Shintoism primarily associated with?",
+        "answer": "Japan"
+    },
+    {
+        "id": 58,
+        "question": "What is Amaterasu in Shintoism?",
+        "answer": "The sun goddess and one of the most important deities in Shinto"
+    },
+    {
+        "id": 59,
+        "question": "What is misogi in Shintoism?",
+        "answer": "A ritual purification practice, often involving water"
+    },
+    {
+        "id": 60,
+        "question": "What are the Four Noble Truths?",
+        "answer": "The foundation of Buddhist teaching about suffering and the path to enlightenment"
+    },
+    {
+        "id": 61,
+        "question": "What was the Buddha's name before his enlightenment?",
+        "answer": "Siddhartha Gautama"
+    },
+    {
+        "id": 62,
+        "question": "What is nirvana in Buddhism?",
+        "answer": "The state of enlightenment and liberation from the cycle of rebirth"
+    },
+    {
+        "id": 63,
+        "question": "What is the Eightfold Path in Buddhism?",
+        "answer": "The Buddhist path to end suffering, including right understanding, speech, action, and other practices"
+    },
+    {
+        "id": 64,
+        "question": "Who is the Dalai Lama?",
+        "answer": "The spiritual leader of Tibetan Buddhism"
+    },
+    {
+        "id": 65,
+        "question": "What are the Five Pillars of Islam?",
+        "answer": "The five fundamental practices: Shahada (faith), Salat (prayer), Zakat (charity), Sawm (fasting), and Hajj (pilgrimage)"
+    },
+    {
+        "id": 66,
+        "question": "What is the holy book of Islam?",
+        "answer": "The Quran (or Koran)"
+    },
+    {
+        "id": 67,
+        "question": "Who is the prophet and founder of Islam?",
+        "answer": "Muhammad (Prophet Muhammad)"
+    },
+    {
+        "id": 68,
+        "question": "What is the holiest city in Islam?",
+        "answer": "Mecca (in Saudi Arabia)"
+    },
+    {
+        "id": 69,
+        "question": "What is Ramadan?",
+        "answer": "The Islamic holy month of fasting from dawn to sunset"
+    },
+    {
+        "id": 70,
+        "question": "Which Taoist text contains the saying 'The journey of a thousand miles begins with a single step'?",
+        "answer": "Tao Te Ching (or Dao De Jing)"
+    },
+    {
+        "id": 71,
+        "question": "According to the Tao Te Ching, what is meant by 'He who knows does not speak. He who speaks does not know'?",
+        "answer": "True wisdom is found in silence and humility, not in talking"
+    },
+    {
+        "id": 72,
+        "question": "What does the Tao Te Ching mean by 'When I let go of what I am, I become what I might be'?",
+        "answer": "Releasing attachment to the ego allows transformation and growth"
+    },
+    {
+        "id": 73,
+        "question": "The Tao Te Ching states 'The wise man is one who knows what he does not know.' What philosophy does this reflect?",
+        "answer": "Humility and acknowledgment of the limits of knowledge"
+    },
+    {
+        "id": 74,
+        "question": "What does 'Nature does not hurry, yet everything is accomplished' from the Tao Te Ching teach?",
+        "answer": "The value of patience and working in harmony with natural timing"
+    },
+    {
+        "id": 75,
+        "question": "According to the Tao Te Ching, what is meant by 'The softest things in the world overcome the hardest things'?",
+        "answer": "Flexibility and gentleness can be more powerful than force and rigidity (like water wearing down stone)"
+    }
+]
+}
