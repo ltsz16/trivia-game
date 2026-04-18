@@ -10,7 +10,9 @@ const AVAILABLE_TOPICS = [
     {name: 'Literature', file: 'literature.json' },
     {name: 'Movies', file: 'movies.json' },
     {name: 'Shakespeare', file: 'shakespeare.json' },
-    {name: 'Theology', file: 'theology.json' }
+    {name: 'Theology', file: 'theology.json' },
+    {name: 'Etiquette', file: 'etiquette.json' },
+    {name: 'Food & Drink', file: 'food_drink.json' }
 ];
 
 // DOM elements

@@ -355,6 +355,11 @@
       "id": 71,
       "question": "Who was the Egyptian queen known for her relationships with Julius Caesar and Mark Antony?",
       "answer": "Cleopatra"
+    },
+    {
+      "id": 72,
+      "question": "Who declared 'Veni, Vidi, Vici'?",
+      "answer": "Julius Caesar"
     }
   ]
 }

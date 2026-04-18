@@ -135,6 +135,131 @@
         "id": 27,
         "question": "Identify the movie: \"I see dead people.\"",
         "answer": "The Sixth Sense"
+    },
+    {
+        "id": 28,
+        "question": "What 1952 musical features Gene Kelly dancing and singing in the rain?",
+        "answer": "'Singin' in the Rain'"
+    },
+    {
+        "id": 29,
+        "question": "Which 1954 Alfred Hitchcock thriller stars James Stewart as a photographer who witnesses a murder from his apartment window?",
+        "answer": "'Rear Window'"
+    },
+    {
+        "id": 30,
+        "question": "What 1950 film noir directed by Billy Wilder tells the story of a faded silent film star?",
+        "answer": "'Sunset Boulevard'"
+    },
+    {
+        "id": 31,
+        "question": "Which 1957 courtroom drama features 12 jurors deliberating the fate of a young defendant?",
+        "answer": "'12 Angry Men'"
+    },
+    {
+        "id": 32,
+        "question": "What 1946 Frank Capra film features an angel showing George Bailey what life would be like without him?",
+        "answer": "'It's a Wonderful Life'"
+    },
+    {
+        "id": 33,
+        "question": "Which 1954 film features Marlon Brando's famous line, 'I coulda been a contender'?",
+        "answer": "'On the Waterfront'"
+    },
+    {
+        "id": 34,
+        "question": "What 1959 Alfred Hitchcock thriller features Cary Grant being chased by a crop-dusting plane?",
+        "answer": "'North by Northwest'"
+    },
+    {
+        "id": 35,
+        "question": "Which 1953 romantic comedy stars Audrey Hepburn as a princess who escapes her duties in Rome?",
+        "answer": "'Roman Holiday'"
+    },
+    {
+        "id": 36,
+        "question": "What 1959 comedy starring Marilyn Monroe, Tony Curtis, and Jack Lemmon involves musicians disguising themselves in drag?",
+        "answer": "'Some Like It Hot'"
+    },
+    {
+        "id": 37,
+        "question": "Which 1950 film starring Bette Davis features the famous line, 'Fasten your seatbelts, it's going to be a bumpy night'?",
+        "answer": "'All About Eve'"
+    },
+    {
+        "id": 38,
+        "question": "What 1985 time-travel film features a DeLorean car as a time machine?",
+        "answer": "'Back to the Future'"
+    },
+    {
+        "id": 39,
+        "question": "Which 1984 supernatural comedy features Bill Murray, Dan Aykroyd, and Harold Ramis as paranormal investigators?",
+        "answer": "'Ghostbusters'"
+    },
+    {
+        "id": 40,
+        "question": "What 1980 film directed by Stanley Kubrick is based on a Stephen King novel and features Jack Nicholson at the Overlook Hotel?",
+        "answer": "'The Shining'"
+    },
+    {
+        "id": 41,
+        "question": "Which 1981 adventure film introduces Indiana Jones as he searches for the Ark of the Covenant?",
+        "answer": "'Raiders of the Lost Ark'"
+    },
+    {
+        "id": 42,
+        "question": "What 1986 Tom Cruise film features Navy fighter pilots and the song 'Danger Zone'?",
+        "answer": "'Top Gun'"
+    },
+    {
+        "id": 43,
+        "question": "Which 1987 fantasy adventure film features the quote, 'Hello. My name is Inigo Montoya. You killed my father. Prepare to die'?",
+        "answer": "'The Princess Bride'"
+    },
+    {
+        "id": 44,
+        "question": "What 1988 action film stars Bruce Willis as John McClane fighting terrorists in a Los Angeles skyscraper?",
+        "answer": "'Die Hard'"
+    },
+    {
+        "id": 45,
+        "question": "Which 1982 sci-fi film directed by Ridley Scott features Harrison Ford as a blade runner hunting replicants?",
+        "answer": "'Blade Runner'"
+    },
+    {
+        "id": 46,
+        "question": "What 1980 sequel reveals that Darth Vader is Luke Skywalker's father?",
+        "answer": "'The Empire Strikes Back'"
+    },
+    {
+        "id": 47,
+        "question": "Which 1986 film directed by James Cameron features Sigourney Weaver returning to battle aliens?",
+        "answer": "'Aliens'"
+    },
+    {
+        "id": 48,
+        "question": "What 1984 film features a teenage boy who receives a mysterious mogwai as a pet, leading to chaos?",
+        "answer": "'Gremlins'"
+    },
+    {
+        "id": 49,
+        "question": "Which 1989 Tim Burton film stars Michael Keaton as the Dark Knight defending Gotham City?",
+        "answer": "'Batman'"
+    },
+    {
+        "id": 50,
+        "question": "What 1987 action film stars Arnold Schwarzenegger as a commando fighting an alien hunter in the jungle?",
+        "answer": "'Predator'"
+    },
+    {
+        "id": 51,
+        "question": "Which 1989 romantic comedy stars Meg Ryan and Billy Crystal and asks, 'Can men and women be friends'?",
+        "answer": "'When Harry Met Sally'"
+    },
+    {
+        "id": 52,
+        "question": "What 1986 Stephen King adaptation follows four boys on a journey to find a dead body?",
+        "answer": "'Stand by Me'"
     }
   ]
 }

@@ -1,0 +1,255 @@
+{
+  "topic": "Etiquette",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In Russian service, where are dishes carved and plated?",
+      "answer": "On a side table (guéridon) in view of the guests"
+    },
+    {
+      "id": 2,
+      "question": "What is the defining characteristic of French service?",
+      "answer": "Food is brought to the table on platters and served by waiters using a spoon and fork from the guest's left side"
+    },
+    {
+      "id": 3,
+      "question": "In American service, where are plates prepared?",
+      "answer": "In the kitchen before being brought to the table"
+    },
+    {
+      "id": 4,
+      "question": "What is Butler service also known as?",
+      "answer": "Family-style service or English service"
+    },
+    {
+      "id": 5,
+      "question": "In Silver service, which hand does the server use to serve food?",
+      "answer": "The right hand, using a spoon and fork together as tongs"
+    },
+    {
+      "id": 6,
+      "question": "What is the key feature of Family-style service?",
+      "answer": "Food is placed on large platters or in bowls on the table and guests serve themselves"
+    },
+    {
+      "id": 7,
+      "question": "Which service style is considered the most formal and elaborate?",
+      "answer": "French service or Russian service"
+    },
+    {
+      "id": 8,
+      "question": "In English service, who typically carves the meat at the table?",
+      "answer": "The host or head of the household"
+    },
+    {
+      "id": 9,
+      "question": "What is the main advantage of American service for restaurants?",
+      "answer": "It is faster and requires less skilled staff than French or Russian service"
+    },
+    {
+      "id": 10,
+      "question": "In Russian service, from which side are beverages typically served?",
+      "answer": "From the right side of the guest"
+    },
+    {
+      "id": 11,
+      "question": "What equipment is essential for tableside preparation in Russian service?",
+      "answer": "A guéridon (side table) and réchaud (portable heating unit)"
+    },
+    {
+      "id": 12,
+      "question": "In French service, from which side is food presented and served?",
+      "answer": "Food is presented from the left and served from the left"
+    },
+    {
+      "id": 13,
+      "question": "What type of establishments most commonly use American plated service?",
+      "answer": "Casual dining restaurants and most modern restaurants"
+    },
+    {
+      "id": 14,
+      "question": "In Butler service, how are platters presented to guests?",
+      "answer": "Servers hold platters and guests serve themselves using serving utensils"
+    },
+    {
+      "id": 15,
+      "question": "What is the correct position for a server using Silver service technique?",
+      "answer": "Standing to the left of the guest with the platter"
+    },
+    {
+      "id": 16,
+      "question": "Which dining service style is most commonly used in homes for holiday dinners?",
+      "answer": "Family-style service"
+    },
+    {
+      "id": 17,
+      "question": "In Russian service, what happens after food is carved on the guéridon?",
+      "answer": "It is plated and then served to guests from the right side"
+    },
+    {
+      "id": 18,
+      "question": "What is a disadvantage of French service?",
+      "answer": "It requires highly skilled staff and is time-consuming"
+    },
+    {
+      "id": 19,
+      "question": "Why is American service also called 'plated service'?",
+      "answer": "Because food is arranged on plates in the kitchen before service"
+    },
+    {
+      "id": 20,
+      "question": "In formal English service, after the host carves the meat, how is it distributed?",
+      "answer": "The hostess or servants pass the plates around the table"
+    },
+    {
+      "id": 21,
+      "question": "In a formal multi-course place setting, where should the dinner fork be positioned?",
+      "answer": "To the left of the plate, closest to the plate (innermost fork)"
+    },
+    {
+      "id": 22,
+      "question": "How should flatware be arranged for a multi-course meal?",
+      "answer": "From the outside in, in the order courses will be served"
+    },
+    {
+      "id": 23,
+      "question": "Where should water glasses be placed in a formal table setting?",
+      "answer": "Directly above the dinner knife at about one o'clock position"
+    },
+    {
+      "id": 24,
+      "question": "In a formal setting, how far should the edge of the dinner plate be from the table's edge?",
+      "answer": "Approximately one inch (or about a thumb's width)"
+    },
+    {
+      "id": 25,
+      "question": "Where is the bread plate positioned in a formal place setting?",
+      "answer": "To the left of the forks, above the forks"
+    },
+    {
+      "id": 26,
+      "question": "How should wine glasses be arranged in a formal multi-course setting?",
+      "answer": "In a diagonal line or triangle above the knives, with the water glass closest to the diner"
+    },
+    {
+      "id": 27,
+      "question": "Where should the dessert spoon and fork be placed in a formal setting?",
+      "answer": "Above the dinner plate, horizontally, with the spoon above the fork"
+    },
+    {
+      "id": 28,
+      "question": "In a formal setting, should the napkin be placed on the left or right side?",
+      "answer": "Either to the left of the forks or on the center of the service plate"
+    },
+    {
+      "id": 29,
+      "question": "How should knife blades be positioned in a formal table setting?",
+      "answer": "With the cutting edge facing toward the plate"
+    },
+    {
+      "id": 30,
+      "question": "What is the proper placement for a coffee or tea cup in a formal multi-course meal?",
+      "answer": "It is brought to the table with the dessert course or after the meal"
+    },
+    {
+      "id": 31,
+      "question": "Where should plates be positioned on a buffet table?",
+      "answer": "At the beginning of the buffet line, after serving utensils"
+    },
+    {
+      "id": 32,
+      "question": "In what order should food be arranged on a buffet table?",
+      "answer": "Appetizers first, followed by salads, main dishes, vegetables and sides, then bread"
+    },
+    {
+      "id": 33,
+      "question": "Where should napkins and flatware be placed on a buffet table?",
+      "answer": "At the end of the buffet line or at the dining tables"
+    },
+    {
+      "id": 34,
+      "question": "What is the recommended flow pattern for guests at a buffet table?",
+      "answer": "A single-direction flow, with a clear starting point and ending point"
+    },
+    {
+      "id": 35,
+      "question": "Where should beverages be placed in a buffet setup?",
+      "answer": "On a separate table away from the food line to prevent congestion"
+    },
+    {
+      "id": 36,
+      "question": "What equipment is essential for keeping hot foods at proper temperature on a buffet?",
+      "answer": "Chafing dishes with sterno or electric heating elements"
+    },
+    {
+      "id": 37,
+      "question": "How should serving utensils be positioned on a buffet table?",
+      "answer": "Next to or in each dish, with handles facing outward for easy access"
+    },
+    {
+      "id": 38,
+      "question": "What is the proper height variation for displays on a buffet table?",
+      "answer": "Use risers or varying levels to create visual interest and make items more accessible"
+    },
+    {
+      "id": 39,
+      "question": "Where should desserts typically be placed in a buffet arrangement?",
+      "answer": "On a separate dessert table or at the end of the buffet line after main courses"
+    },
+    {
+      "id": 40,
+      "question": "What is the ideal distance to maintain between each dish on a buffet table?",
+      "answer": "Approximately 6-12 inches to allow comfortable serving and prevent crowding"
+    },
+    {
+      "id": 41,
+      "question": "What does RSVP stand for and what language is it from?",
+      "answer": "Répondez s'il vous plaît (French for 'Please respond')"
+    },
+    {
+      "id": 42,
+      "question": "How long after receiving a gift should you send a thank you note?",
+      "answer": "Within two to three weeks, ideally within one week"
+    },
+    {
+      "id": 43,
+      "question": "When making introductions, who should be introduced to whom first?",
+      "answer": "The person of lesser authority is introduced to the person of greater authority, and men are introduced to women"
+    },
+    {
+      "id": 44,
+      "question": "What is the proper handshake technique in business settings?",
+      "answer": "Firm grip, web-to-web contact, two to three pumps, with eye contact"
+    },
+    {
+      "id": 45,
+      "question": "How many minutes late is considered acceptable before it's rude?",
+      "answer": "5-10 minutes maximum; being more than 15 minutes late requires a call or message"
+    },
+    {
+      "id": 46,
+      "question": "When entering a door with someone, who should go through first?",
+      "answer": "The person who reaches it first should hold it, or hold it for those with packages, elderly, or disabled"
+    },
+    {
+      "id": 47,
+      "question": "In business etiquette, when is it appropriate to use first names with someone you've just met?",
+      "answer": "When they invite you to do so, or in casual business environments where it's the standard practice"
+    },
+    {
+      "id": 48,
+      "question": "What is the rule for cell phone use during meals or meetings?",
+      "answer": "Phones should be silenced and put away; use only in emergencies with prior notice or excuse yourself from the table"
+    },
+    {
+      "id": 49,
+      "question": "When someone sneezes, what is the polite response?",
+      "answer": "'Bless you' or 'Gesundheit', though some modern etiquette suggests no response is necessary"
+    },
+    {
+      "id": 50,
+      "question": "What is the appropriate distance to maintain in personal space during conversation?",
+      "answer": "Approximately 18-24 inches (arm's length) for social interactions in Western cultures"
+    }
+  ]
+}
